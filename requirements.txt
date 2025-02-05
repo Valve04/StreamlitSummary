@@ -60,7 +60,6 @@ pytz==2024.1
 pyzmq==26.2.0
 referencing==0.34.0
 requests==2.31.0
-rich==13.7.1
 rpds-py==0.18.0
 scipy==1.14.0
 six==1.16.0
